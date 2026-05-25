@@ -1,6 +1,4 @@
-data/raw/
-data/processed/*.pkl
-data/processed/*.npz
+# data/raw/ e data/processed/ agora versionados
 models/*.pkl
 models/*.model
 models/*.model.wv.vectors.npy
