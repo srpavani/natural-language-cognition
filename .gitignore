@@ -1,0 +1,13 @@
+data/raw/
+data/processed/*.pkl
+models/*.pkl
+models/*.model
+models/*.model.wv.vectors.npy
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+decision.md 
+rules.md 
+SPEC.md 
+tasks.md
