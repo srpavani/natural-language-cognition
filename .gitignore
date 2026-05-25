@@ -1,5 +1,6 @@
 data/raw/
 data/processed/*.pkl
+data/processed/*.npz
 models/*.pkl
 models/*.model
 models/*.model.wv.vectors.npy
@@ -7,7 +8,13 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 .DS_Store
-decision.md 
-rules.md 
-SPEC.md 
+
+# Documentação interna / planejamento
+README.md
+SPEC.md
 tasks.md
+decisions.md
+rules.md
+
+# Ferramentas de desenvolvimento
+.claude/
